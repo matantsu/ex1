@@ -1,4 +1,4 @@
-# About the Mexican Beaded Lizard ([wiki](https://en.wikipedia.org/wiki/Mexican_beaded_lizard#/media/File:BeadedLizard-AHPExotics.jpg))
+# About the Mexican Beaded Lizard ([wiki](https://en.wikipedia.org/wiki/Mexican_beaded_lizard))
 
 ## Important to know
 1. Kingdom:	Animalia
